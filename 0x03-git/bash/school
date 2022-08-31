@@ -1,2 +1,4 @@
-#!/bin/bash
-School
+echo  ALX  > bash/alx
+cat bash/alx
+touch bash/school
+echo echo  "School" 
